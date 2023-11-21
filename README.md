@@ -17,8 +17,8 @@ Hi, I'm Front-End Developer!🙂
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   <img src = "https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+<br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
   <img src = "https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white "/>
 
@@ -33,11 +33,11 @@ Hi, I'm Front-End Developer!🙂
 <br>
 
 <h3>🏆 Awards 🏆</h3>
-<p> (현레포지터리 awards 폴더에 첨부)</p>
-<li> 비문 인식 기술을 활용한 유기견 관리 어플리케이션 FOPPY </li>
-- 소프트웨어 공모전 - 은상<br>
-- 캡스톤 경진대회 - 금상<br>
-- (지능형 로봇 컨소시엄)전국 캡스톤 경진대회 - 장려상<br>
+  - 비문 인식 기술을 활용한 유기견 관리 어플리케이션 FOPPY <br>
+<a href="https://github.com/jihyun517/jihyun517/blob/main/awards/FOPPY_%EA%B3%B5%EB%AA%A8%EC%A0%84_%EC%9D%80%EC%83%81.JPG" target="_blank">소프트웨어 공모전 - 은상</a><br>
+<a href="https://github.com/jihyun517/jihyun517/blob/main/awards/FOPPY_%EC%BA%A1%EC%8A%A4%ED%86%A4%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EA%B8%88%EC%83%81.jpg" target="_blank">캡스톤 경진대회 - 금상</a><br>
+<a href="https://github.com/jihyun517/jihyun517/blob/main/awards/FOPPY_%EC%A7%80%EB%8A%A5%ED%98%95%EB%A1%9C%EB%B4%87%EC%BB%A8%EC%86%8C%EC%8B%9C%EC%97%84_%EC%9E%A5%EB%A0%A4%EC%83%81.jpg" target="_blank">(지능형 로봇 컨소시엄)전국 캡스톤 경진대회 - 장려상</a><br>
+<br>
 
 </div>
 
