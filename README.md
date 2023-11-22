@@ -14,6 +14,8 @@ Hi, I'm Front-End Developer!🙂
 
 <h4>  I can work with the following techniques :  </h4>
 
+<br>
+
 <p>💻 Languages 💻</p>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -25,12 +27,14 @@ Hi, I'm Front-End Developer!🙂
   <img src = "https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white "/>
 
 <br>
+<br>
 
 <p>🛠 Tools 🛠</p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 
+<br>
 <br>
 
 <p> 🎨 UI & UX 🎨</p>
