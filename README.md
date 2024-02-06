@@ -44,12 +44,23 @@ Hi, I'm Front-End Developer!🙂
 <br>
 <br>
 
-<h3>🏆 Awards 🏆</h3>
-  - 비문 인식 기술을 활용한 유기견 관리 어플리케이션 FOPPY <br>
-<a href="https://github.com/jihyun517/jihyun517/blob/main/awards/FOPPY_%EA%B3%B5%EB%AA%A8%EC%A0%84_%EC%9D%80%EC%83%81.JPG" target="_blank">소프트웨어 공모전 - 은상</a><br>
-<a href="https://github.com/jihyun517/jihyun517/blob/main/awards/FOPPY_%EC%BA%A1%EC%8A%A4%ED%86%A4_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EA%B8%88%EC%83%81.jpg" target="_blank">캡스톤 경진대회 - 금상</a><br>
-<a href="https://github.com/jihyun517/jihyun517/blob/main/awards/FOPPY_%EC%A7%80%EB%8A%A5%ED%98%95%EB%A1%9C%EB%B4%87%EC%BB%A8%EC%86%8C%EC%8B%9C%EC%97%84_%EC%9E%A5%EB%A0%A4%EC%83%81.jpg" target="_blank">(지능형 로봇 컨소시엄)전국 캡스톤 경진대회 - 장려상</a><br>
+<h3>🏆 Awards 🏆 </h3>
+<details>
+<summary style = "cursor: pointer; display: block;"> <p>Click Me!</p> </summary>
+
 <br>
+
+<div markdown="1">
+
+| 상명                                                                                                                                                                                                                                                                  | 수상일(최신순) | 비고                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------------- |
+| **<a href="https://github.com/jihyun517/jihyun517/blob/main/awards/FOPPY_%EC%A7%80%EB%8A%A5%ED%98%95%EB%A1%9C%EB%B4%87%EC%BB%A8%EC%86%8C%EC%8B%9C%EC%97%84_%EC%9E%A5%EB%A0%A4%EC%83%81.jpg" target="_blank">(지능형 로봇 컨소시엄)전국 캡스톤 경진대회 - 장려상</a>** | 2023. 11       | FOPPY                                                    |
+| **<a href="https://github.com/jihyun517/jihyun517/blob/main/awards/FOPPY_%EC%BA%A1%EC%8A%A4%ED%86%A4_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EA%B8%88%EC%83%81.jpg" target="_blank">숭실대학교 캡스톤 디자인 경진대회 - 금상</a>**                                      | 2023. 09       | FOPPY                                                    |
+| **<a href="https://github.com/jihyun517/jihyun517/blob/main/awards/FOPPY_%EA%B3%B5%EB%AA%A8%EC%A0%84_%EC%9D%80%EC%83%81.JPG" target="_blank">숭실대학교 소프트웨어 공모전 - 은상</a>**                                                                                | 2023. 08       | 비문 인식 기술을 활용한 유기견 관리 어플리케이션 - FOPPY |
+
+</div>
+
+</details>
 
 </div>
 
